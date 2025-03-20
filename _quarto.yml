@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "杨晓森博士的个人网站"
+  navbar:
+    left:
+      - href: index.qmd
+        text: 首页
+      - href: about.qmd
+        text: 个人简介
+      - href: education.qmd
+        text: 教育背景
+      - href: awards.qmd 
+        text: 学术荣誉
+      - href: contact.qmd
+        text: 联系方式
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    code-link: true

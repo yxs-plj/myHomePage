@@ -1,0 +1,25 @@
+---
+title: "学术荣誉"
+---
+
+## 获奖情况
+```{=html}
+<div class="awards-grid">
+  <div class="award-card">
+    <h3>CVPR 2024 最佳学生论文奖</h3>
+    <p>国际计算机视觉与模式识别会议</p>
+    <time>2024.06</time>
+  </div>
+  
+  <div class="award-card">
+    <h3>清华大学特等奖学金</h3>
+    <p>博士期间学术综合排名Top 1%</p>
+    <time>2023.12</time>
+  </div>
+
+  <div class="award-card">
+    <h3>中国人工智能学会优秀博士论文</h3>
+    <p>全国年度10篇优秀博士论文之一</p>
+    <time>2024.09</time>
+  </div>
+</div>

@@ -1,0 +1,17 @@
+---
+title: "欢迎访问我的学术主页"
+---
+
+## 杨晓森 博士
+
+![](assets/portrait.jpg){.rounded .shadow style="max-width: 250px; float: right; margin-left: 2rem;"}
+
+**人工智能与计算机视觉研究员**  
+清华大学智能研究院 · 博士后研究员
+
+::: {.callout-note}
+## 近期动态
+- 2025年3月：在CVPR发表论文《基于多模态学习的场景理解新方法》
+- 2025年2月：获得国家自然科学基金青年项目资助
+- 2024年12月：担任ICML领域主席
+:::

@@ -1,0 +1,21 @@
+---
+title: "个人简介"
+---
+
+## 基本信息
+- 姓名：杨晓森
+- 职称：博士后研究员
+- 机构：清华大学智能视觉实验室
+- 研究领域：计算机视觉、三维重建、增强现实
+
+## 学术经历
+```{=html}
+<div class="callout callout-note">
+2021-2024 清华大学计算机科学与技术系 博士  
+2024-至今 清华大学智能视觉实验室 博士后  
+</div>
+```
+
+## 代表性论文
+- **Yang X**, et al. "Real-time Neural Rendering for Dynamic Scenes" (CVPR 2024)
+- **Yang X**, et al. "Sparse-View NeRF Reconstruction with Geometric Priors" (ICCV 2023)

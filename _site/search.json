@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "欢迎访问我的学术主页",
+    "section": "",
+    "text": "人工智能与计算机视觉研究员\n清华大学智能研究院 · 博士后研究员\n\n\n\n\n\n\n近期动态\n\n\n\n\n2025年3月：在CVPR发表论文《基于多模态学习的场景理解新方法》\n2025年2月：获得国家自然科学基金青年项目资助\n2024年12月：担任ICML领域主席"
+  },
+  {
+    "objectID": "index.html#杨晓森-博士",
+    "href": "index.html#杨晓森-博士",
+    "title": "欢迎访问我的学术主页",
+    "section": "",
+    "text": "人工智能与计算机视觉研究员\n清华大学智能研究院 · 博士后研究员\n\n\n\n\n\n\n近期动态\n\n\n\n\n2025年3月：在CVPR发表论文《基于多模态学习的场景理解新方法》\n2025年2月：获得国家自然科学基金青年项目资助\n2024年12月：担任ICML领域主席"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "联系方式",
+    "section": "",
+    "text": "&lt;i class=\"fas fa-envelope\"&gt;&lt;/i&gt;\n&lt;span&gt;yang.xiaosen@tsinghua.edu.cn&lt;/span&gt;\n\n\n&lt;i class=\"fab fa-github\"&gt;&lt;/i&gt;\n&lt;a href=\"https://github.com/xiaosen-yang\"&gt;xiaosen-yang&lt;/a&gt;\n\n\n&lt;i class=\"fas fa-map-marker-alt\"&gt;&lt;/i&gt;\n&lt;address&gt;清华大学FIT大楼3-205室&lt;/address&gt;"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "个人简介",
+    "section": "",
+    "text": "姓名：杨晓森\n职称：博士后研究员\n机构：清华大学智能视觉实验室\n研究领域：计算机视觉、三维重建、增强现实"
+  },
+  {
+    "objectID": "about.html#研究领域",
+    "href": "about.html#研究领域",
+    "title": "个人简介",
+    "section": "",
+    "text": "计算机视觉\n多模态机器学习\n医学图像分析"
+  },
+  {
+    "objectID": "about.html#学术经历",
+    "href": "about.html#学术经历",
+    "title": "个人简介",
+    "section": "学术经历",
+    "text": "学术经历\n\n2021-2024 清华大学计算机科学与技术系 博士  \n2024-至今 清华大学智能视觉实验室 博士后"
+  },
+  {
+    "objectID": "about.html#专业技能",
+    "href": "about.html#专业技能",
+    "title": "个人简介",
+    "section": "专业技能",
+    "text": "专业技能\n\n深度学习框架：PyTorch, TensorFlow\n编程语言：Python, C++, MATLAB\n学术工具：LaTeX, Git, Linux"
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "学术荣誉",
+    "section": "",
+    "text": "&lt;h3&gt;CVPR 2024 最佳学生论文奖&lt;/h3&gt;\n&lt;p&gt;国际计算机视觉与模式识别会议&lt;/p&gt;\n&lt;time&gt;2024.06&lt;/time&gt;\n\n\n&lt;h3&gt;清华大学特等奖学金&lt;/h3&gt;\n&lt;p&gt;博士期间学术综合排名Top 1%&lt;/p&gt;\n&lt;time&gt;2023.12&lt;/time&gt;\n\n\n&lt;h3&gt;中国人工智能学会优秀博士论文&lt;/h3&gt;\n&lt;p&gt;全国年度10篇优秀博士论文之一&lt;/p&gt;\n&lt;time&gt;2024.09&lt;/time&gt;"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "教育背景",
+    "section": "",
+    "text": "清华大学\n计算机科学与技术系\n2018-2024\n导师：李华教授\n研究方向：神经辐射场优化与实时渲染"
+  },
+  {
+    "objectID": "about.html#基本信息",
+    "href": "about.html#基本信息",
+    "title": "个人简介",
+    "section": "",
+    "text": "姓名：杨晓森\n职称：博士后研究员\n机构：清华大学智能视觉实验室\n研究领域：计算机视觉、三维重建、增强现实"
+  },
+  {
+    "objectID": "about.html#代表性论文",
+    "href": "about.html#代表性论文",
+    "title": "个人简介",
+    "section": "代表性论文",
+    "text": "代表性论文\n\nYang X, et al. “Real-time Neural Rendering for Dynamic Scenes” (CVPR 2024)\nYang X, et al. “Sparse-View NeRF Reconstruction with Geometric Priors” (ICCV 2023)"
+  },
+  {
+    "objectID": "education.html#博士学位",
+    "href": "education.html#博士学位",
+    "title": "教育背景",
+    "section": "",
+    "text": "清华大学\n计算机科学与技术系\n2018-2024\n导师：李华教授\n研究方向：神经辐射场优化与实时渲染"
+  },
+  {
+    "objectID": "education.html#硕士学位",
+    "href": "education.html#硕士学位",
+    "title": "教育背景",
+    "section": "硕士学位",
+    "text": "硕士学位\n北京大学\n信息科学技术学院\n2015-2018\n研究方向：三维点云配准算法"
+  },
+  {
+    "objectID": "education.html#本科",
+    "href": "education.html#本科",
+    "title": "教育背景",
+    "section": "本科",
+    "text": "本科\n浙江大学\n计算机科学与技术专业\n2011-2015\n荣誉：优秀毕业生（前5%）"
+  },
+  {
+    "objectID": "awards.html#获奖情况",
+    "href": "awards.html#获奖情况",
+    "title": "学术荣誉",
+    "section": "",
+    "text": "&lt;h3&gt;CVPR 2024 最佳学生论文奖&lt;/h3&gt;\n&lt;p&gt;国际计算机视觉与模式识别会议&lt;/p&gt;\n&lt;time&gt;2024.06&lt;/time&gt;\n\n\n&lt;h3&gt;清华大学特等奖学金&lt;/h3&gt;\n&lt;p&gt;博士期间学术综合排名Top 1%&lt;/p&gt;\n&lt;time&gt;2023.12&lt;/time&gt;\n\n\n&lt;h3&gt;中国人工智能学会优秀博士论文&lt;/h3&gt;\n&lt;p&gt;全国年度10篇优秀博士论文之一&lt;/p&gt;\n&lt;time&gt;2024.09&lt;/time&gt;"
+  },
+  {
+    "objectID": "contact.html#学术联系",
+    "href": "contact.html#学术联系",
+    "title": "联系方式",
+    "section": "",
+    "text": "&lt;i class=\"fas fa-envelope\"&gt;&lt;/i&gt;\n&lt;span&gt;yang.xiaosen@tsinghua.edu.cn&lt;/span&gt;\n\n\n&lt;i class=\"fab fa-github\"&gt;&lt;/i&gt;\n&lt;a href=\"https://github.com/xiaosen-yang\"&gt;xiaosen-yang&lt;/a&gt;\n\n\n&lt;i class=\"fas fa-map-marker-alt\"&gt;&lt;/i&gt;\n&lt;address&gt;清华大学FIT大楼3-205室&lt;/address&gt;"
+  }
+]
